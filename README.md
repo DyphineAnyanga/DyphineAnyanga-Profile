@@ -1,23 +1,47 @@
 # Junior-developer-portfolio
-# 👩🏽‍⚕️ Dyphine (Eunice) Anyanga
+<!-- README.md for GitHub Profile -->
 
-**Clinician | Health Data Enthusiast | Data Science,Full stack software Developer & Cloud Learner @ ALX Africa*in Progress**
-
----
-
-I'm Dyphine a Clinician turned Data,full stack software and cloud developer Enthusiast. With a background in patient care, clinical research, and health data management, I’m passionate about building data-driven and tech-powered solutions that improve healthcare delivery.
-
-I specialize in:
-- Clinical data analysis (SPSS, Python, SQL)
-- EMR optimization
-- Reproductive & maternal health
-- Public health strategies  
-- Data science,Full stack software & Cloud Development (in training via ALX Africa)
-
-My mission is to bridge the gap between medicine and technology to strengthen healthcare systems in Kenya and beyond.
+<h1 align="center"> I'm Dyphine Anyanga</h1>
+<p align="center">
+  <strong>Clinician | Health Researcher | Data Science,software engineering and AWS Cloud computing Learner @ ALX Africa** | Community Health Advocate</strong><br/>
+  Passionate about transforming healthcare with technology & data.
+</p>
 
 ---
 
-**Let’s connect**:  
-[LinkedIn](https://www.linkedin.com/in/dyphine-anyanga) • [Portfolio Website](https://sites.google.com/view/dyphineeuniceanyanga/my-portfolio) • dyphineanyanga@gmail.com
+###  About Me
+
+I am a learner of the **ALX Software Engineering,AWS cloud computing and Data Science Program**, and I’m currently revamping my GitHub profile to stand out in my job search.
+
+I began this journey in software engineering and data because **I believe in the power of technology to revolutionize healthcare**—from predictive models that inform care to dashboards that empower decision-making. My work is fueled by a desire to **improve health equity**, particularly in under-resourced communities.
+
+ **My vision** is to make healthcare smarter, more accessible, and more equitable through **data-driven innovation**.
+
+I’m interested in building:
+- Health data dashboards
+- EMR analysis tools
+- Public health prediction models
+- Patient-facing apps for health education
+
+---
+
+###  My Skills
+
+```html
+Languages: Python, SQL, HTML, CSS, JavaScript (basic)  
+Tools: SPSS, Excel, Pandas, Streamlit, Flask, Git  
+Cloud: AWS (Foundational level)  
+Healthcare: EMR systems, reproductive & maternal health, GCP-certified
+
+
+**Let’s connect**:
+
+Email: dyphineanyanga@gmail.com  
+Portfolio: https://sites.google.com/view/dyphineeuniceanyanga/home  
+LinkedIn: https://www.linkedin.com/in/dyphine-anyanga  
+ 
+
+
+ 
+
 
