@@ -1,9 +1,9 @@
 # Junior-developer-portfolio
 <!-- README.md for GitHub Profile -->
 
-<h1 align="center"> I'm Dyphine Anyanga</h1>
+<h1 align="center"> Hi,I'm Dyphine Anyanga</h1>
 <p align="center">
-  <strong>Clinician | Health Researcher | Data Science,software engineering and AWS Cloud computing Learner @ ALX Africa** | Community Health Advocate</strong><br/>
+  <strong>Clinician | Health Researcher | Data Science,software engineering and AWS Cloud computing Learner @ ALX Africa | Community Health Advocate</strong><br/>
   Passionate about transforming healthcare with technology & data.
 </p>
 
